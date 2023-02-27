@@ -15,14 +15,12 @@
  * @Copyright:  (C)  2023  .pyang. all right reserved
 ***********************************************************************/
 
-#include <iostream>;
-
-
-
+#include <iostream>
 
 int main(int argc, char const *argv[])
 {
     /* code */
+    std::cout<<"Hello World!"<<std::endl;
     return 0;
 }
 
